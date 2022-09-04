@@ -1,0 +1,118 @@
+.container{
+    
+    flex-wrap:wrap;
+    align-content:center;
+   /* padding:10px 20px;
+  margin:30px 10px; */
+ background-color:black;
+}
+
+h1{
+  text-align:center;
+color:red;
+}
+h6{
+    color:white;
+    text-align: center;
+}
+.fa{
+    color: black;
+}
+.box-part1{
+    background-color:orange;
+    text-align: center;
+    color:white;
+    padding: 20px 10px;
+    height:400px;
+    
+    margin-bottom:  30px;
+}
+.box-part2{
+    background-color:rgb(48, 179, 231);
+    padding: 15px 5px;
+    height:400px;
+    
+    text-align: center;
+    color:white;
+    margin-bottom:  30px;
+}
+.box-part3{
+    background-color:rgb(226, 87, 87);
+    padding: 80px 30px;
+    text-align:center;
+    height:400px;
+    color:white;
+}
+span{
+    text-align:right-top;
+}
+.box-part4{
+    background-color:rgb(48, 179, 231);
+    text-align: left;
+    color:white;
+    padding: 20px 10px;
+    height:400px;
+  margin-top:  30px;
+  margin-bottom:  30px;
+}
+
+.box-part5{
+    background-color:rgb(48, 179, 231);
+    padding: 15px 5px;
+    height:400px;
+     text-align: left;
+    color:white;
+    margin-top:  30px;
+    margin-bottom:  30px;
+}
+.box-part6{
+    background-color:rgb(226, 87, 87);
+    text-align: center;
+    color:white;
+    padding: 20px 10px;
+    height:400px;
+  margin-top:  30px;
+  margin-bottom:  30px;
+}
+.box-part7{
+    background-color:orange;
+    padding: 15px 5px;
+    height:400px;
+     text-align: center;
+    color:white;
+    margin-top:  30px;
+    margin-bottom:  30px;
+}
+.box-part8{
+    background-color:rgb(48, 179, 231);
+    padding: 80px 30px;
+    text-align:left;
+    height:300px;
+    color:white;
+    margin-bottom:30px;
+}
+.box-part9{
+    background-color:orange;
+    padding: 80px 30px;
+    text-align:left;
+    height:300px;
+    color:white;
+}
+.box-part10{
+    background-color:rgb(48, 179, 231);
+    text-align: center;
+    color:white;
+    padding: 20px 10px;
+    height:400px;
+  margin-top:  30px;
+  margin-bottom:  30px;
+}
+.box-part11{
+    background-color:rgb(226, 87, 87);
+    padding: 15px 5px;
+    height:400px;
+     text-align: center;
+    color:white;
+    margin-top:  30px;
+    margin-bottom:  30px;
+}
